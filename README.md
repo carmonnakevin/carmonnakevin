@@ -1,4 +1,4 @@
-### Hi there, I'm gay👋
+### Hi there👋
 
 <!--
 **carmonnakevin/carmonnakevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
